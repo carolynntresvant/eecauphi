@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bahwahbeiv.danlubbers.com/sitemap.xml
